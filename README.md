@@ -4,20 +4,12 @@ A análise contempla comparações nos níveis municipal, estadual e regional, d
 
 Principais tópicos abordados: 
 
-   Integração de dados a partir de múltiplas fontes (arquivos CSV e bases SQLite)
-
-Tratamento e imputação de dados ausentes
-
-Cálculo e análise de casos e óbitos acumulados e diários de COVID-19
-
-Investigação de discrepâncias entre casos e óbitos reportados nos níveis municipal e estadual
-
-Criação de visualizações geográficas utilizando GeoPandas e Matplotlib
-
-Visualização de tendências temporais por meio de gráficos de dispersão e linhas conectadas
-
-Cálculo e interpretação de métricas de mortalidade e letalidade
-
-Análise de médias móveis para identificação de tendências nas taxas de mortalidade
-
-Esse projeto tem como objetivo aplicar ferramentas e métodos de análise de dados ao contexto econômico e social da pandemia, consolidando conceitos fundamentais trabalhados ao longo da disciplina.
+- Integração de dados a partir de múltiplas fontes (arquivos CSV e bases SQLite)
+- Tratamento e imputação de dados ausentes
+- Cálculo e análise de casos e óbitos acumulados e diários de COVID-19
+- Investigação de discrepâncias entre casos e óbitos reportados nos níveis municipal e estadual
+- Criação de visualizações geográficas utilizando GeoPandas e Matplotlib
+- Visualização de tendências temporais por meio de gráficos de dispersão e linhas conectadas
+- Cálculo e interpretação de métricas de mortalidade e letalidade
+- Análise de médias móveis para identificação de tendências nas taxas de mortalidade
+- Esse projeto tem como objetivo aplicar ferramentas e métodos de análise de dados ao contexto econômico e social da pandemia, consolidando conceitos fundamentais trabalhados ao longo da disciplina.
