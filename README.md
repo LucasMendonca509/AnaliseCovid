@@ -12,4 +12,4 @@ Principais tópicos abordados:
 - Visualização de tendências temporais por meio de gráficos de dispersão e linhas conectadas
 - Cálculo e interpretação de métricas de mortalidade e letalidade
 - Análise de médias móveis para identificação de tendências nas taxas de mortalidade
-- Esse projeto tem como objetivo aplicar ferramentas e métodos de análise de dados ao contexto econômico e social da pandemia, consolidando conceitos fundamentais trabalhados ao longo da disciplina.
+- Esse projeto teve como objetivo aplicar ferramentas e métodos de análise de dados ao contexto econômico e social da pandemia, consolidando conceitos fundamentais trabalhados ao longo da disciplina.
